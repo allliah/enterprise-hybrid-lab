@@ -37,10 +37,4 @@ This project simulates a small-to-medium enterprise (SME) multi-platform office 
 
 ---
 
-## 📁 Repository Structure
-```text
-├── scripts/
-│   └── sys_backup.sh       # Automated Bash configuration backup script
-├── docs/
-│   └── network-diagram.png # Visual layout of the 192.168.16.0/24 subnet
-└── README.md
+
